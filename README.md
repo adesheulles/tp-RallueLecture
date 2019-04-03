@@ -20,6 +20,8 @@ un mot de passe que l'ont mes dans un nouveaux fichier csv ensuite on crée c'es
 |Création d'un fichier csv avec le login et mot de passe de chaque éleve|c#|programmation objet|
 |Envoit des informations dans la base de donnée|c#|programmation objet|
  
+  ![connection.png](https://github.com/adesheulles/tp-RallyeLecture/tree/master/images/connection.PNG)
+  
  # Lecture est stockage des donnée d'un fichier csv
  Le programme lit un fichier csv ligne par ligne et crée un éleve avec un mot de passe qui sera soit aléatoire ou bien construi(premiére 
  lettre du prenom + nom),choit fait par l'utilisateur.
