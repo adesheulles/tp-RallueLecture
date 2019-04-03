@@ -7,13 +7,15 @@ un mot de passe que l'ont mes dans un nouveaux fichier csv ensuite on crée c'es
  * VisualStudio
  * WindowsForm
  
- Le développement tourne autour de 3 grandes parties.
+ Le développement tourne autour de 4 grandes parties.
+ * Connection d'un utilisateur.
  * Lecture est stockage des donnée d'un fichier csv.
  * Création d'un fichier csv avec le login et mot de passe de chaque éleve.
  * Envoit des informations dans la base de donnée.
  
  |développement          |langages |technique de programmation                           |
 |-----------------------|:-------:|----------------------------------------------------:|
+|Connection d'un utilisateur |c#|programmation objet|
 |Lecture est stockage des donnée d'un fichier csv |c#|programmation objet|
 |Création d'un fichier csv avec le login et mot de passe de chaque éleve|c#|programmation objet|
 |Envoit des informations dans la base de donnée|c#|programmation objet|
