@@ -45,5 +45,5 @@ un mot de passe que l'ont mes dans un nouveaux fichier csv ensuite on crée c'es
   ![Capture.png](https://github.com/adesheulles/tp-RallyeLecture-application/blob/master/csvEleve.PNG)
   
  # Envoit des informations dans la base de donnée :
- Envoit de requete pour alimenter la base de donnée.
+ Envoit de requete qui va ajouter les élève dans la table élève et dans aauth-user puis créer une classe dans la table classe.
 
