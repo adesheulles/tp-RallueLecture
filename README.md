@@ -22,12 +22,13 @@ un mot de passe que l'ont mes dans un nouveaux fichier csv ensuite on crée c'es
  
  # Connection d'un utilisateur :
  
-  ![Capture.png](https://github.com/adesheulles/tp-RallyeLecture-application/blob/master/alimentation.PNG)
+
+ ![Capture.png](https://github.com/adesheulles/tp-RallyeLecture-application/blob/master/connection.PNG)
+  
   
  # Formulaire :
  
- ![Capture.png](https://github.com/adesheulles/tp-RallyeLecture-application/blob/master/connection.PNG)
-  
+  ![Capture.png](https://github.com/adesheulles/tp-RallyeLecture-application/blob/master/alimentation.PNG)
  
  # Lecture est stockage des donnée d'un fichier csv :
  Le programme lit un fichier csv ligne par ligne et crée un éleve avec un mot de passe qui sera soit aléatoire ou bien construi(premiére 
