@@ -39,7 +39,8 @@ un mot de passe que l'ont mes dans un nouveaux fichier csv ensuite on crée c'es
  
  # Création d'un fichier csv avec le login et mot de passe de chaque éleve :
  Crée un fichier csv indiquant le login et le mot de passe de chaque éleve.
- 
+  ![Capture.png](https://github.com/adesheulles/tp-RallyeLecture-application/blob/master/csvEleve.PNG)
+  
  # Envoit des informations dans la base de donnée :
  Envoit de requete pour alimenter la base de donnée.
 
