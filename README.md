@@ -20,6 +20,10 @@ un mot de passe que l'ont mes dans un nouveaux fichier csv ensuite on crée c'es
 |Création d'un fichier csv avec le login et mot de passe de chaque éleve|c#|programmation objet|
 |Envoit des informations dans la base de donnée|c#|programmation objet|
  
+ # Cas d'utilisation :
+ 
+  ![Capture.png](https://github.com/adesheulles/tp-RallyeLecture-application/blob/master/casUtilisation.PNG)
+ 
  # Connection d'un utilisateur :
  
 
