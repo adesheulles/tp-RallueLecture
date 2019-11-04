@@ -35,15 +35,15 @@ un mot de passe que l'on met dans un nouveaux fichier csv ensuite on crée c'est
   ![Capture.png](https://github.com/adesheulles/tp-RallyeLecture-application/blob/master/alimentation.PNG)
  
  # Lecture est stockage des donnée d'un fichier csv :
- Le programme lit un fichier csv ligne par ligne et crée un élève avec un mot de passe qui sera soit aléatoire ou bien construi(premiére lettre du prenom + nom),choit fait par l'utilisateur.
+ Le programme lit un fichier csv ligne par ligne et crée un élève avec un mot de passe qui sera soit aléatoire ou bien construi(première lettre du prénom + nom), choit fait par l'utilisateur.
  
    ![Capture.png](https://github.com/adesheulles/tp-RallyeLecture-application/blob/master/Eleve.PNG)
  
- # Création d'un fichier csv avec le login et mot de passe de chaque éleve :
- Crée un fichier csv indiquant le login et le mot de passe de chaque éleve.
+ # Création d'un fichier csv avec le login et mot de passe de chaque élève :
+ Crée un fichier csv indiquant le login et le mot de passe de chaque élève.
  
   ![Capture.png](https://github.com/adesheulles/tp-RallyeLecture-application/blob/master/csvEleve.PNG)
   
- # Envoit des informations dans la base de donnée :
- Envoit de requete qui va ajouter les élève dans la table élève et dans aauth-user puis créer une classe dans la table classe.
+ # Envoies des informations dans la base de donnée :
+ Envoie de requête qui va ajouter les élève dans la table élève et dans aauth-user puis créer une classe dans la table classe.
 
